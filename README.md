@@ -1,6 +1,6 @@
 # blog-admin
 
-> blog 管理后台
+> blog 管理后台系统
 
 ## Build Setup
 
